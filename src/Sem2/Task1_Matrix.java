@@ -1,6 +1,6 @@
 package Sem2;
 
-public final class gTask1_Matrix {
+public final class Task1_Matrix {
     public static class Matrix
     {
         public int[][] _matrix;
