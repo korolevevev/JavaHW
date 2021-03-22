@@ -1,3 +1,3 @@
-    INSERT INTO news(title, fullName, createAt, updateAt, text, categoryName)
-VALUES ('Доллар', 'Иванов Иван Иванович', '13123213123', '1321313123', 'lorerweitweingmgkdb;emgomopemgopemg', 'Финансы'),
-('Евро', 'Петров Петр Петрович', '65445645645654', '74635353', 'egkebihemhioe eromrogimo meormg', 'Финансы');
+    INSERT INTO news(name, userName, created, updated, text, catTitle)
+VALUES ('news1', 'Lil Pump', '20/09/2020', '21/03/2021', 'This is texttttxtxtxtxtxx', 'IT'),
+('news1', 'JAck Harlow', '13/01/2021', '14/01/2021', 'Thisrifj hola verde!', 'Design');
